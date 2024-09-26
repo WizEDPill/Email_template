@@ -7,7 +7,7 @@
       "bateria": "300 kWh",
       "potencia": "200cv",
       "recarga": "30 min",
-      "urlPhoto": ""
+      "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "bateria": "230 kWh",
       "potencia": "100cv",
       "recarga": "20 min",
-      "urlPhoto": ""
+      "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "bateria": "430 kWh",
       "potencia": "400cv",
       "recarga": "60 min",
-      "urlPhoto": ""
+      "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
     },
     {
       "id": 4,
@@ -31,6 +31,6 @@
       "bateria": "130 kWh",
       "potencia": "200cv",
       "recarga": "50 min",
-      "urlPhoto": ""
+      "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
     }
   ]
