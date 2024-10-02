@@ -41,4 +41,12 @@
       "recarga": "50 min",
       "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
     }
+    {
+      "id": 6,
+      "preco": "R$ 324.000,00",
+      "bateria": "300 kWh",
+      "potencia": "200cv",
+      "recarga": "30 min",
+      "urlPhoto": "https://raw.githubusercontent.com/WizEDPill/Email_template/05605a20ef340b3ee444998faec4fde71263ab0b/img_carro.png"
+    }
   ]
